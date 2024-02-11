@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "raleway";
+    src: url("../fonts/Raleway-ExtraBold.subset.otf") format("opentype");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "sometypemono";
+    src: url("../fonts/SourceSans3-Regular.subset.otf") format("opentype");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "montserrat";
+    src: url("../fonts/Montserrat-SemiBold.subset.otf") format("opentype");
+    font-display: swap;
+}
+
+.font-one {
+    font-family: 'raleway';
+}
+
+.font-two {
+    font-family: 'sometypemono';
+}
+
+.font-three {
+    font-family: 'montserrat';
+}

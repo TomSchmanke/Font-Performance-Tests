@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "raleway";
+    src: url("../fonts/Raleway-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "sometypemono";
+    src: url("../fonts/SourceSans3-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "montserrat";
+    src: url("../fonts/Montserrat-SemiBold.woff") format("woff");
+}
+
+.font-one {
+    font-family: 'raleway';
+}
+
+.font-two {
+    font-family: 'sometypemono';
+}
+
+.font-three {
+    font-family: 'montserrat';
+}
